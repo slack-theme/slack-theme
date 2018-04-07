@@ -1,9 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![downloads](https://img.shields.io/badge/Downloads-2K-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
+
 # Slack Theme
 
 Color scheme inspired by [Slack](https://slack.com) default theme Aubergine.
 
-<img width="400" alt="portfolio_view" src="https://raw.githubusercontent.com/felipemendes/slack-theme/master/assets/slack-is-awesome.gif">
+<img width="400" alt="Slack is Awesome by Nick Staab" src="https://raw.githubusercontent.com/slack-theme/slack-theme/master/assets/slack-is-awesome.gif">
 
 > Slack is Awesome by [Nick Staab](https://dribbble.com/shots/1724648-Slack-is-Awesome).
 
