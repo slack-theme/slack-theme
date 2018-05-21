@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![downloads](https://img.shields.io/badge/Downloads-4K-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
+[![downloads](https://img.shields.io/badge/Downloads-6K-green.svg)](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
 
 # Slack Theme
 
