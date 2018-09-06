@@ -1,9 +1,6 @@
 [submodule "visual-studio-code"]
 	path = visual-studio-code
 	url = https://github.com/slack-theme/visual-studio-code
-[submodule "sublime"]
-	path = sublime
-	url = https://github.com/slack-theme/sublime
 [submodule "atom"]
 	path = atom
 	url = https://github.com/slack-theme/atom
