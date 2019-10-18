@@ -1,5 +1,4 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Installs](https://vsmarketplacebadge.apphb.com/installs-short/felipe-mendes.slack-theme.svg)
 
 # Slack Theme
 
